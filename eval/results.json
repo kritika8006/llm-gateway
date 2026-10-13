@@ -1,0 +1,562 @@
+{
+ "e01": {
+  "cheap": {
+   "ok": true,
+   "text": "Canberra",
+   "latencyMs": 9065,
+   "tokensOut": 2
+  },
+  "strong": {
+   "ok": true,
+   "text": "Canberra",
+   "latencyMs": 8002,
+   "tokensOut": 2
+  }
+ },
+ "e02": {
+  "cheap": {
+   "ok": true,
+   "text": "144",
+   "latencyMs": 11377,
+   "tokensOut": 3
+  },
+  "strong": {
+   "ok": true,
+   "text": "144",
+   "latencyMs": 8103,
+   "tokensOut": 3
+  }
+ },
+ "e03": {
+  "cheap": {
+   "ok": true,
+   "text": "Jane Austen",
+   "latencyMs": 11131,
+   "tokensOut": 2
+  },
+  "strong": {
+   "ok": true,
+   "text": "Jane Austen",
+   "latencyMs": 8220,
+   "tokensOut": 2
+  }
+ },
+ "e04": {
+  "cheap": {
+   "ok": true,
+   "text": "Oxygen",
+   "latencyMs": 9572,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "Oxygen",
+   "latencyMs": 8189,
+   "tokensOut": 1
+  }
+ },
+ "e05": {
+  "cheap": {
+   "ok": true,
+   "text": "7",
+   "latencyMs": 8108,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "7",
+   "latencyMs": 7928,
+   "tokensOut": 1
+  }
+ },
+ "e06": {
+  "cheap": {
+   "ok": true,
+   "text": "Jupiter",
+   "latencyMs": 10454,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "Jupiter",
+   "latencyMs": 8304,
+   "tokensOut": 1
+  }
+ },
+ "e07": {
+  "cheap": {
+   "ok": true,
+   "text": "Gracias",
+   "latencyMs": 10849,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "gracias",
+   "latencyMs": 8138,
+   "tokensOut": 2
+  }
+ },
+ "e08": {
+  "cheap": {
+   "ok": true,
+   "text": "100",
+   "latencyMs": 10386,
+   "tokensOut": 3
+  },
+  "strong": {
+   "ok": true,
+   "text": "100",
+   "latencyMs": 8317,
+   "tokensOut": 3
+  }
+ },
+ "e09": {
+  "cheap": {
+   "ok": true,
+   "text": "Leonardo da Vinci",
+   "latencyMs": 8973,
+   "tokensOut": 3
+  },
+  "strong": {
+   "ok": true,
+   "text": "Leonardo da Vinci",
+   "latencyMs": 8389,
+   "tokensOut": 3
+  }
+ },
+ "e10": {
+  "cheap": {
+   "ok": true,
+   "text": "Cold",
+   "latencyMs": 9593,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "Cold",
+   "latencyMs": 7712,
+   "tokensOut": 1
+  }
+ },
+ "e11": {
+  "cheap": {
+   "ok": true,
+   "text": "7",
+   "latencyMs": 10222,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "7",
+   "latencyMs": 9060,
+   "tokensOut": 1
+  }
+ },
+ "e12": {
+  "cheap": {
+   "ok": true,
+   "text": "Ottawa",
+   "latencyMs": 9914,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "Ottawa",
+   "latencyMs": 8069,
+   "tokensOut": 1
+  }
+ },
+ "e13": {
+  "cheap": {
+   "ok": true,
+   "text": "25",
+   "latencyMs": 8879,
+   "tokensOut": 2
+  },
+  "strong": {
+   "ok": true,
+   "text": "25",
+   "latencyMs": 8060,
+   "tokensOut": 2
+  }
+ },
+ "e14": {
+  "cheap": {
+   "ok": true,
+   "text": "Mercury",
+   "latencyMs": 8993,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "Mercury",
+   "latencyMs": 8166,
+   "tokensOut": 1
+  }
+ },
+ "e15": {
+  "cheap": {
+   "ok": true,
+   "text": "Children",
+   "latencyMs": 9653,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "Children",
+   "latencyMs": 8031,
+   "tokensOut": 1
+  }
+ },
+ "e16": {
+  "cheap": {
+   "ok": true,
+   "text": "Deoxyribonucleic acid",
+   "latencyMs": 8138,
+   "tokensOut": 6
+  },
+  "strong": {
+   "ok": true,
+   "text": "DNA stands for **Deoxyribonucleic Acid**.",
+   "latencyMs": 8188,
+   "tokensOut": 11
+  }
+ },
+ "e17": {
+  "cheap": {
+   "ok": true,
+   "text": "12",
+   "latencyMs": 7518,
+   "tokensOut": 2
+  },
+  "strong": {
+   "ok": true,
+   "text": "12",
+   "latencyMs": 8602,
+   "tokensOut": 2
+  }
+ },
+ "e18": {
+  "cheap": {
+   "ok": true,
+   "text": "1912",
+   "latencyMs": 9304,
+   "tokensOut": 4
+  },
+  "strong": {
+   "ok": true,
+   "text": "1912",
+   "latencyMs": 8288,
+   "tokensOut": 4
+  }
+ },
+ "e19": {
+  "cheap": {
+   "ok": true,
+   "text": "Pound sterling",
+   "latencyMs": 9876,
+   "tokensOut": 3
+  },
+  "strong": {
+   "ok": true,
+   "text": "Pound Sterling",
+   "latencyMs": 8296,
+   "tokensOut": 3
+  }
+ },
+ "e20": {
+  "cheap": {
+   "ok": true,
+   "text": "120",
+   "latencyMs": 7814,
+   "tokensOut": 3
+  },
+  "strong": {
+   "ok": true,
+   "text": "120",
+   "latencyMs": 8167,
+   "tokensOut": 3
+  }
+ },
+ "h01": {
+  "cheap": {
+   "ok": true,
+   "text": "5",
+   "latencyMs": 8463,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "5",
+   "latencyMs": 8779,
+   "tokensOut": 1
+  }
+ },
+ "h02": {
+  "cheap": {
+   "ok": true,
+   "text": "75",
+   "latencyMs": 11028,
+   "tokensOut": 2
+  },
+  "strong": {
+   "ok": true,
+   "text": "75",
+   "latencyMs": 8904,
+   "tokensOut": 2
+  }
+ },
+ "h03": {
+  "cheap": {
+   "ok": true,
+   "text": "3",
+   "latencyMs": 10088,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "3",
+   "latencyMs": 10729,
+   "tokensOut": 1
+  }
+ },
+ "h04": {
+  "cheap": {
+   "ok": true,
+   "text": "1683",
+   "latencyMs": 9679,
+   "tokensOut": 4
+  },
+  "strong": {
+   "ok": true,
+   "text": "1683",
+   "latencyMs": 9460,
+   "tokensOut": 4
+  }
+ },
+ "h05": {
+  "cheap": {
+   "ok": true,
+   "text": "72",
+   "latencyMs": 9252,
+   "tokensOut": 2
+  },
+  "strong": {
+   "ok": true,
+   "text": "72",
+   "latencyMs": 9451,
+   "tokensOut": 2
+  }
+ },
+ "h06": {
+  "cheap": {
+   "ok": true,
+   "text": "4",
+   "latencyMs": 12081,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "4",
+   "latencyMs": 9264,
+   "tokensOut": 1
+  }
+ },
+ "h07": {
+  "cheap": {
+   "ok": true,
+   "text": "55",
+   "latencyMs": 7905,
+   "tokensOut": 2
+  },
+  "strong": {
+   "ok": true,
+   "text": "55",
+   "latencyMs": 9682,
+   "tokensOut": 2
+  }
+ },
+ "h08": {
+  "cheap": {
+   "ok": true,
+   "text": "To find the probability of getting exactly 2 heads in 3 coin flips, we can list the sample space. Each flip has 2 possibilities (Heads or Tails), so for 3 flips, there are $2^3 = 8$ possible outcomes:\n\n1. HHH\n2. **HHT**\n3. **HTH**\n4. HTT\n5. **THH**\n6. THT\n7. TTH\n8. TTT\n\nOut of these 8 equally likely",
+   "latencyMs": 8377,
+   "tokensOut": 142
+  },
+  "strong": {
+   "ok": true,
+   "text": "Let H represent a head and T represent a tail.\nWhen you flip a fair coin 3 times, the total possible outcomes are:\nHHH\nHHT\nHTH\nTHH\nHTT\nTHT\nTTH\nTTT\n\nThere are $2^3 = 8$ total possible outcomes.\n\nNow, let's identify the outcomes with exactly 2 heads:\nHHT\nHTH\nTHH\n\nThere are 3 outcomes with exactly 2 heads.\n\nThe probability of an event is the number of favorable outcomes divided by the total number of possible outcomes.\n\nProbability (exactly 2 heads) = $\\frac{\\text{Number of outcomes with exactly 2 heads}}{\\text{Total number of possible outcomes}}$\nProbability (exactly 2 heads) = $\\frac{3}{8}$\n\nThe probability of getting exactly 2 heads is $\\frac{3}{8}$.",
+   "latencyMs": 12328,
+   "tokensOut": 187
+  }
+ },
+ "h09": {
+  "cheap": {
+   "ok": true,
+   "text": "2",
+   "latencyMs": 7491,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "2",
+   "latencyMs": 10823,
+   "tokensOut": 1
+  }
+ },
+ "h10": {
+  "cheap": {
+   "ok": true,
+   "text": "30",
+   "latencyMs": 7267,
+   "tokensOut": 2
+  },
+  "strong": {
+   "ok": true,
+   "text": "30",
+   "latencyMs": 10868,
+   "tokensOut": 2
+  }
+ },
+ "h11": {
+  "cheap": {
+   "ok": true,
+   "text": "2",
+   "latencyMs": 7639,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "2",
+   "latencyMs": 8677,
+   "tokensOut": 1
+  }
+ },
+ "h12": {
+  "cheap": {
+   "ok": true,
+   "text": "30",
+   "latencyMs": 7659,
+   "tokensOut": 2
+  },
+  "strong": {
+   "ok": true,
+   "text": "30",
+   "latencyMs": 9478,
+   "tokensOut": 2
+  }
+ },
+ "h13": {
+  "cheap": {
+   "ok": true,
+   "text": "2",
+   "latencyMs": 7957,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "2",
+   "latencyMs": 10246,
+   "tokensOut": 1
+  }
+ },
+ "h14": {
+  "cheap": {
+   "ok": true,
+   "text": "96",
+   "latencyMs": 7834,
+   "tokensOut": 2
+  },
+  "strong": {
+   "ok": true,
+   "text": "96",
+   "latencyMs": 11009,
+   "tokensOut": 2
+  }
+ },
+ "h15": {
+  "cheap": {
+   "ok": true,
+   "text": "101101",
+   "latencyMs": 7544,
+   "tokensOut": 6
+  },
+  "strong": {
+   "ok": true,
+   "text": "101101",
+   "latencyMs": 8465,
+   "tokensOut": 6
+  }
+ },
+ "h16": {
+  "cheap": {
+   "ok": true,
+   "text": "48",
+   "latencyMs": 7253,
+   "tokensOut": 2
+  },
+  "strong": {
+   "ok": true,
+   "text": "48",
+   "latencyMs": 10229,
+   "tokensOut": 2
+  }
+ },
+ "h17": {
+  "cheap": {
+   "ok": false,
+   "text": "6",
+   "latencyMs": 7622,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "7",
+   "latencyMs": 11528,
+   "tokensOut": 1
+  }
+ },
+ "h18": {
+  "cheap": {
+   "ok": true,
+   "text": "8",
+   "latencyMs": 7794,
+   "tokensOut": 1
+  },
+  "strong": {
+   "ok": true,
+   "text": "8",
+   "latencyMs": 10599,
+   "tokensOut": 1
+  }
+ },
+ "h19": {
+  "cheap": {
+   "ok": true,
+   "text": "42",
+   "latencyMs": 7315,
+   "tokensOut": 2
+  },
+  "strong": {
+   "ok": true,
+   "text": "42",
+   "latencyMs": 9096,
+   "tokensOut": 2
+  }
+ },
+ "h20": {
+  "cheap": {
+   "ok": true,
+   "text": "16200",
+   "latencyMs": 7393,
+   "tokensOut": 5
+  },
+  "strong": {
+   "ok": true,
+   "text": "16200",
+   "latencyMs": 9733,
+   "tokensOut": 5
+  }
+ }
+}

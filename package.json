@@ -1,0 +1,7 @@
+{
+  "name": "llm-gateway",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": { "start": "node src/index.js", "test": "node --test" },
+  "dependencies": { "express": "^4.19.2", "ioredis": "^5.4.1", "mongoose": "^8.5.0" }
+}

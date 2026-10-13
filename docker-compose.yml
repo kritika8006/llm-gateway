@@ -1,0 +1,25 @@
+services:
+  gateway:
+    build: .
+    ports: ["3000:3000"]
+    environment:
+      MONGO_URL: mongodb://mongo:27017/gateway
+      REDIS_URL: redis://redis:6379
+      EMBED_URL: http://embed:8000
+      GEMINI_API_KEY: ${GEMINI_API_KEY}
+      GEMINI_MODEL: ${GEMINI_MODEL:-gemini-2.5-flash}
+      GEMINI_MODEL_CHEAP: ${GEMINI_MODEL_CHEAP:-gemini-3.1-flash-lite}
+      CACHE_ENABLED: ${CACHE_ENABLED:-true}
+      CACHE_THRESHOLD: ${CACHE_THRESHOLD:-0.9}
+      ROUTER_ENABLED: ${ROUTER_ENABLED:-true}
+      ROUTER_THRESHOLD: ${ROUTER_THRESHOLD:-0.5}
+      API_KEYS: ${API_KEYS:-}
+      ADMIN_KEY: ${ADMIN_KEY:-}
+      OLLAMA_URL: http://host.docker.internal:11434
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    depends_on: [mongo, redis, embed]
+  embed:
+    build: ./embed
+    ports: ["8000:8000"]
+  mongo: { image: "mongo:7" }
+  redis: { image: "redis:7-alpine" }
